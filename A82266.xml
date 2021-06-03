@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration touching the weighing of goods and merchandizes at the King's Beams: with an act of Common-Council for the regulation thereof.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82266</idno><idno type="EEBO-CITATION">45578320</idno>
+  <idno type="VID">172253</idno>
+  <idno type="EEBO-PROQUEST">2240895999</idno>
+  
+            <idno type="STC">Wing D801B</idno>
+            <idno type="STC">ESTC R174640</idno>
+            <idno type="OCLC">45578320</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A82266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172253)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2621:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration touching the weighing of goods and merchandizes at the King's Beams: with an act of Common-Council for the regulation thereof.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Wagstaffe, fl. 1674-1687.</author>
+               </titleStmt>
+               <extent>[2], 9 p. : coats of arms.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft, printer to the honourable city of London.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Wagstaffe.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Weights and measures --  Law and legislation --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172253:1"/>
+            <p>A DECLARATION Touching the Weighing of GOODS AND MERCHANDIZES AT THE King's Beams: WITH An Act of Common-Council for the Regulation thereof.</p>
+            <p>Printed by <hi>Samuel Roycroft,</hi> Printer to the Honourable City of <hi>London.</hi> 1681.</p>
+         </div>
+         <div type="court_order">
+            <pb facs="tcp:172253:2"/>
+            <opener>
+               <signed>Ward Major.</signed>
+            </opener>
+            <opener>
+               <dateline>Commune Concilium tentum in Camera <hi>Guild<g ref="char:EOLhyphen"/>hall,</hi> Civitatis <hi>London,</hi>
+                  <date>Die Veneris, 17<seg rend="sup">o</seg> die <hi>Junij</hi> Anno Dom. 1681. Anno{que} Regni Re<g ref="char:EOLhyphen"/>gis <hi>Caroli</hi> Secundi <hi>Angl',</hi> &amp;c. xxxiij<seg rend="sup">o</seg>.</date>
+               </dateline>
+            </opener>
+            <p>IT is Ordered by this Court, That the Declara<g ref="char:EOLhyphen"/>tion and Bill touching the Kings Beams, which were passed at the last Common-Council: As likewise the Bill for raising four Fifteens now pas<g ref="char:EOLhyphen"/>sed, shall be forthwith Printed and Published.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:172253:2"/>
+            <opener>
+               <dateline>Commune Concilium tentum in Camera <hi>Guild<g ref="char:EOLhyphen"/>hall</hi> Civitatis <hi>London,</hi>
+                  <date>die <hi>Veneris,</hi> xiij<seg rend="sup">o</seg> die <hi>Maij,</hi> Anno Domini 1681. Annoque Regni Domini nostri <hi>Caroli</hi> Secundi, <hi>Angl', &amp;c.</hi> 33<seg rend="sup">o</seg>
+                  </date> coram <hi>Patient' Ward</hi> Mil', Majore Civitatis <hi>London, Thoma Aleyn</hi> Mil' &amp; Baro<g ref="char:EOLhyphen"/>net', <hi>Johanne Frederick</hi> Mil', <hi>Thoma Bludworth</hi> Mil', <hi>Willielmo Turner</hi> Mil', <hi>Georgio Waterman</hi> Mil', <hi>Rober<g ref="char:EOLhyphen"/>to Clayton,</hi> Mil', Aldermannis, <hi>Georgio Treby</hi> Mil', Recordatore dictae Civitatis, <hi>Johanne Moore</hi> Mil', <hi>Willielmo Pritchard</hi> Mil', <hi>Henrico Tulse</hi> Mil', <hi>Jacobo Smith</hi> Mil', <hi>Roberto Jeffery</hi> Mil', <hi>Johanne Shorter,</hi> Mil', <hi>Thoma Gould</hi> Mil', <hi>Johanne Peake</hi> Mil', <hi>Thoma Beckford</hi> Mil', <hi>Johanne Chapman</hi> Mil', <hi>Thoma Pilkington</hi> Ar' Aldermannis, &amp; <hi>Henrico Cornish</hi> Ar' Al<g ref="char:EOLhyphen"/>dermanno, ac uno Vicecom' dictae Civitatis, Nec<g ref="char:EOLhyphen"/>non majore parte Communiariorum ejusdem Civitatis in Communi Concil' tunc &amp; ibidem Assemblat'.</dateline>
+            </opener>
+            <head>A Declaration touching the Weighing of Goods and Merchan<g ref="char:EOLhyphen"/>dizes at the Kings Beams: With an Act of Common Coun<g ref="char:EOLhyphen"/>cil for the Regulation thereof.</head>
+            <p>FOrasmuch as it appertaineth to Iustice and true Dealing, That to all men be uprighty given, true weight, and for that cause there are, and from the time whereof the memo<g ref="char:EOLhyphen"/>ry of man is not to the contrary, have béen within the Ci<g ref="char:EOLhyphen"/>ty of <hi>London</hi> and Liberties thereof, Common Beams, u<g ref="char:EOLhyphen"/>sually called the Kings Beams, for the more just and equal weighing
+<pb n="2" facs="tcp:172253:3"/>of all Goods and Merchandizes sold or bartered within the City a<g ref="char:EOLhyphen"/>foresaid, and Liberties thereof.</p>
+            <p>And whereas the Office of Tronage, or weighing of all Goods and Merchandizes within the said City and Liberties thereof, hath time out of mind béen used, exercised, and enjoyed by the Major, Commonalty, and Citizens of the City of <hi>London,</hi> and by several Royal and Ancient Charters and Acts of Parliament confirmed unto, and vested in the Major, Commonalty, and Citizens of the said city.</p>
+            <p>And whereas the ancient usual Rates and Duties paid for weigh<g ref="char:EOLhyphen"/>ing of Goods and Merchandizes at the said Kings Beams, are as followeth; <hi>Viz.</hi> for Iron the Ton <hi>xx d.</hi> for Madder the Bale <hi>xvj d.</hi> for e<g ref="char:EOLhyphen"/>very Draught from <hi>14 l.</hi> weight to <hi>4 C.</hi> weight, <hi>vj d.</hi> For every Draught from <hi>4 C.</hi> weight to <hi>6 C.</hi> weight, <hi>xij d.</hi> For every Draught from <hi>6 C.</hi> weight to <hi>8 C.</hi> weight, <hi>ij s.</hi> For every Draught from <hi>8 C.</hi> weight to <hi>10 C.</hi> weight, <hi>iij s. iiij d.</hi> For every Draught from <hi>10 C.</hi> weight to <hi>12 C.</hi> weight, <hi>iiij s. viij d.</hi> And for every Draught from <hi>12 C.</hi> weight and upwards, <hi>vj s. viij d.</hi> The which Rates were at all times paid by the Buyer and Seller, <hi>viz.</hi> Thrée fourth parts there<g ref="char:EOLhyphen"/>of by the Seller, and the other Fourth part by the Buyer. Now the Right Honourable the Lord Major, the Right Worshipful the Aldermen and Commons in this Common-Council Assembled, ta<g ref="char:EOLhyphen"/>king into their serious Consideration the increase of the Trade of this City, and being desirous to encourage both the Seller and the Buyer of all Goods and Merchandizes usually bought and sold by weight, to make use of the said Kings Beams, to the intent that Right may be done betwéen the Buyer and Seller, Do hereby de<g ref="char:EOLhyphen"/>clare that an Abatement shall be made of the said Ancient Rates and Duties unto all Persons that shall be Sellers to the Fréemen of the said City, in Manner and under the Provisoes and Conditi<g ref="char:EOLhyphen"/>ons following; <hi>(Viz.)</hi> That the Fréeman of this City buying of a Forreigner or Vnfréeman, any Goods and Merchandizes usually sold by weight, shall from henceforth be wholly acquitted of the said Fourth part of the said Duties and Rates which have béen paid by the Fréeman buyer thereof. And that Vnfréeman and Forreigners selling to a Fréeman of the said City, shall henceforth be abated out of the said Ancient Duties and Rates, and pay as followeth; <hi>Viz.</hi> Whereas the Seller being an Vnfréeman or Foreigner, for his part of the said Ancient Duties and Rates, due by Prescription, ought to pay for every Draught from <hi>14 l.</hi> weight to <hi>4 C.</hi> weight, Four pence half penny: The Forreigner and Vnfréeman shall pay from <hi>14 l.</hi> weight to <hi>1 C.</hi> weight, but <hi>ij d.</hi> And also for the weighing of Figgs and Lippory Raisons by the Barrel, not excéeding <hi>2 C.</hi> weight, <hi>ij d.</hi> and from <hi>1 C.</hi> weight to <hi>4 C.</hi> weight, but <hi>iij d.</hi> And whereas the Foreigners and Vnfréemen ought to pay for every Draught from <hi>4 C.</hi> weight to <hi>6 C.</hi> weight, <hi>ix d.</hi> there shall be paid
+<pb n="3" facs="tcp:172253:3"/>but <hi>vj d.</hi> And whereas the Foreigners and Vnfréemen ought to pay for every Draught from <hi>6 C.</hi> weight to <hi>8 C.</hi> weight, <hi>j s. iiij d.</hi> there shall be paid but <hi>x d.</hi> And whereas the Foreigner and Vnfréeman ought to pay for every Draught from <hi>8 C.</hi> weight to <hi>10 C.</hi> weight, <hi>ij s. vj d.</hi> there shall be paid but <hi>xvj d.</hi> And whereas the Foreigner and Vnfréeman ought to pay for every Draught from <hi>10 C.</hi> weight to <hi>12 C.</hi> weight, <hi>ij s. vj d.</hi> there shall be paid but <hi>xx d.</hi> And where<g ref="char:EOLhyphen"/>as the Forreigner and Vnfréeman ought to pay for every Draught from <hi>12 C.</hi> weight and upwards <hi>v s.</hi> there shall be paid for every Draught from <hi>12 C.</hi> weight to <hi>19 C.</hi> weight, but <hi>ij s.</hi> and for every Draught from <hi>19 C.</hi> weight to <hi>22 C.</hi> weight, but <hi>ij s. iiij d.</hi> and for e<g ref="char:EOLhyphen"/>very Draught from <hi>22 C.</hi> weight and upwards, to any weight that may be conveniently weighed, but <hi>iij s.</hi> And the Forreigner and Vn<g ref="char:EOLhyphen"/>fréeman, Seller, shall hereafter pay for the weighing of every Ton of Iron <hi>xiiij d.</hi> and for every Bale of Madder <hi>x d.</hi> and no more.</p>
+            <p>And it is hereby further declared, That if any Vnfréeman or For<g ref="char:EOLhyphen"/>reigner shall at any time after the Feast of the Nativity of St. <hi>John Baptist</hi> now next ensuing, sell, barter, and deliver any Goods or Merchandizes, usually sold by weight, before the same shall be weighed, at one of the said Common Beams; Or if any Vnfrée<g ref="char:EOLhyphen"/>man or Forreigner, Seller, after his Goods are weighed at one of the said Common Beams, shall not upon Demand pay the said Rates mentioned to be abated in this Declaration, to such Offi<g ref="char:EOLhyphen"/>cer as is or shall be so appointed to receive the same, that then such Vnfréeman or Forreigner, Seller, shall not only from the time of such omission, to weigh his, or their Goods, or refusal or omission after such Demand, to pay for the weighing thereof, loose the benefit of the Abatements intended by this Declara<g ref="char:EOLhyphen"/>tion, but shall for ever hereafter be subject to pay the said An<g ref="char:EOLhyphen"/>cient full Duties and Rates, due by Prescription unto the Major and Commonalty and Citizens of this City, for the weighing of all his or their Goods and Merchandizes at the Kings Beams, or Common Beams aforesaid. Any thing herein contained to the contrary thereof in any wise notwithstand<g ref="char:EOLhyphen"/>ing</p>
+            <p>And be it further declared by the Authority aforesaid, That if any Merchant or other Person, not being Frée of this Ci<g ref="char:EOLhyphen"/>ty, being his Majesties Frée-born Subject, or made a Denizen, or Naturalized according to Law, shall at any time hereafter be desirous to become a Fréeman of this City, That then such Merchant, or other Person Vnfrée, having first obtained his Fréedom of this City, according to the Custome thereof,
+<pb n="4" facs="tcp:172253:4"/>shall not be obliged to take upon him either the Office of Alder<g ref="char:EOLhyphen"/>man or Sheriff of this City, or County of Middlesex, within the space of Seven years next after the time of his becoming a Frée<g ref="char:EOLhyphen"/>man thereof, Any Law, Vsage, or Custome of this City to the contrary in any wise notwithstanding.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+         <div type="act">
+            <pb n="5" facs="tcp:172253:4"/>
+            <head>AN ACT For the better REGULATION Of the Weighing of GOODS AND MERCHANDIZES AT THE Kings Beams.</head>
+            <p>WHereas the Office of Tronage, or weighing of all Goods and Merchandizes: within the City of <hi>London,</hi> and Li<g ref="char:EOLhyphen"/>berties th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reof, hath time out of mind béen used, exer<g ref="char:EOLhyphen"/>cised, and enjoyed by the Major and Commonalty and Citizens
+<pb n="6" facs="tcp:172253:5"/>of the City of <hi>London,</hi> and by several Royal and Ancient Char<g ref="char:EOLhyphen"/>ters and Acts of Parliament confirmed unto, and vested in the Major, Commonalty, and Citizens of the said City, and for that cause there are, and from the time whereof the memory of man is not to the contrary, have béen within the said City and Liberties thereof, Common Beams, usually called the Kings Beams, for the more just and equal weighing of all Goods and Merchandizes sold or bartered within the said City and Li<g ref="char:EOLhyphen"/>berties.</p>
+            <p>Be it therefore Enacted by the Right Honourable the Lord Major, the Right Worshipful the Aldermen, and the Commons of this City in Common-Council Assembled, and by Authority of the same, That from and after the Feast of the Nativity of St. <hi>John Baptist</hi> now next ensuing, the sworn Weighers and other Officers appointed, or which shall hereafter be chosen and ap<g ref="char:EOLhyphen"/>pointed by the Court of Lord Major and Aldermen of this City for the time being, for the weighing of Goods and Merchandi<g ref="char:EOLhyphen"/>zes at the Common Beams of this City, and for the better Re<g ref="char:EOLhyphen"/>gulation thereof, and Collection of the Duties for the same, as often as notice shall be left in writing at the Weighouse of the time and place where any Goods or Merchandizes are to be weighed, shall bring the Weights, Triangles, and Beams to the place where the Goods are to be weighed at his own Charge, when the Duty of the Goods to be weighed amounts unto <hi>Ten shillings</hi> or more. And when the Goods to be weighed do lye upon any Key or Wharf, or in any Warehouse where the Tri<g ref="char:EOLhyphen"/>angles and Scales may work, the Merchants, Seller or Buyer, shall not be charged with Rolling of his or their Goods or Mer<g ref="char:EOLhyphen"/>chandizes to the Scale, but the Rolling thereof to the Scale shall be in such case at the Weighers Charge.</p>
+            <p>Provided always, and be it Enacted and Declared by the Au<g ref="char:EOLhyphen"/>thority aforesaid, That when and as often as the Duties and Rates mentioned in the Declaration of Common Councel of this City, Intituled, <hi>A Declaration touching the Weighing of Goods and Merchandizes at the Kings Beams,</hi> to be taken for weighing of Goods and Merchandizes, shall not amount unto <hi>Ten shillings,</hi> That then the Merchant or other Seller thereof, shall be at the charge of the carrying and recarrying the Trian<g ref="char:EOLhyphen"/>gle, Beam, and Weights (unless the Goods be weighed at the Weighouse). And that the Merchant, or other Seller, shall also be at the charge of bringing the Goods out of the Vaults and Cellars, and other places where the Triangl<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Beam cannot stand for weighing thereof, or otherwise to allow the Weighers Porters reasonable satisfaction for their Labour.</p>
+            <pb n="7" facs="tcp:172253:5"/>
+            <p> And forasmuch as the Weighouse before the late Dreadful Fire which happened in <hi>London, Anno 1666.</hi> was, and time out of mind hath béen, the Common Market appointed for the buy<g ref="char:EOLhyphen"/>ing and selling of Hops within this City, and Liberties there<g ref="char:EOLhyphen"/>of, and the said Weighouse was by the said Fire burnt and consumed, by reason whereof the said Market hath béen of late time discontinued, but another Weighouse more large and com<g ref="char:EOLhyphen"/>modious for the reception of Hops, hath since been built in, of near <hi>Little Escheap,</hi> in the Ward of <hi>Billingsgate</hi> within the said City of <hi>London.</hi> Be it therefore Enacted by the Authority a<g ref="char:EOLhyphen"/>foresaid, That the said Weighouse so built, situated, and ap<g ref="char:EOLhyphen"/>pointed, shall from henceforth be, and be déemed and used, as and for the Common Office for Tronage or weighing of all Goods and Merchandizes whatsoever, used to be weighed or sold by weight. And it is hereby further Enacted and Declared, That it is, and shall be also the Common Market for the Buying and Selling of all Hops of English growth brought into the said City and Liberties thereof by Forreigners or Vnfréemen; And that no Hops of English growth shall at any time hereafter be weighed by the Weigher, or such other Officers of this City appointed, or hereafter to be appointed by the Court of Lord Major and Aldermen of this City, save at the said Weighouse only, or by some of the Beams there and thereunto belonging, upon pain that if any Weigher shall act contrary thereunto; shall for every such Offence, upon due proof by one or more credible witnesses to be made before the Lord Major and Alder<g ref="char:EOLhyphen"/>men of this City for the time being, be <hi>ipso facto</hi> displaced, and for ever disabled to intermeddle any more in weighing or attend<g ref="char:EOLhyphen"/>ing the said Beam.</p>
+            <p>And whereas divers Persons, usually called or known by the name of Ticket-Porters, Tackle-Porters, and Fellowship-Porters of this City, and other Porters and Labourers have heretofore frequently in secret manner, and commonly in the night time for their private lucre and gain, presumed to work in the weighing by Triangles and Beams of their own provi<g ref="char:EOLhyphen"/>ding of Forreigners and Vnfréemens Goods and Merchandizes, after sale hath béen made thereof, before the same have béen weighed at the said Kings Beams, or any of them, whereby this City hath lost its Ancient Rights and Dues, and often<g ref="char:EOLhyphen"/>times unjust weights have béen vsed, to the deceipt of His Majesties Subjects, and scandal of the Government of this City: For re<g ref="char:EOLhyphen"/>medy whereof for the future, It is hereby further Enacted by the Authority aforesaid, That no Tackle-Porter Ticket-Porter, or
+<pb n="8" facs="tcp:172253:6"/>Fellowship-Porter, or any other Porter (after the sale of any of the Goods and Merchandizes of any Forreigner or Vnfréeman, that are usually bought and sold by weight) shall from hence<g ref="char:EOLhyphen"/>forth presume to intermeddle or work within this City or liber<g ref="char:EOLhyphen"/>ties thereof, in the weighing of any such Goods or Merchandi<g ref="char:EOLhyphen"/>zes, for any persons whatsoever, unless such Porter or Porters shall be thereunto appointed by one of the Weighers, or other officers appointed, or to be appointed, to attend the said Beams by the Court of Lord Major and Aldermen of this City, upon pain that every such Porter that shall offend contrary hereunto upon due proofe thereof by one or more witnesses to be made upon Oath before the said Court, Lord Major, and Aldermen, shall by order of the said Court be discharged and put out of the Fellowship or Society of Porters, to which such Offender, or Offenders, at the time of his or their Offences shall belong.</p>
+            <p>And be it futher Enacted by the authority aforesaid, That one Act of Common-Council, made the second day of <hi>February, Anno Domini 1658.</hi> in the time of the Majoralty of <hi>John Ireton</hi> for the Regulation of the said common Beams, commonly called the Kings Beams; And also that one other Act of Common Council made the <hi>xxiij<seg rend="sup">th</seg>
+               </hi> nay of <hi>October,</hi> in the <hi>xxiiij<seg rend="sup">th</seg>
+               </hi> year of his now Majesties Reign, in the time of the Majoralty of Sir <hi>George Waternan</hi> Knight, Intituled, <hi>An Act for the weighing of goods at the Kings Beam,</hi> and all and every the Clauses and Branches in the said severall Acts of Common-Council contained, and all other Acts of Common-Council repugnant hereunto, are hereby repealed, adnulled, and made void to all intents and purposes whatsoever.</p>
+            <p>And it is also Enacted by the Authority aforesaid, That if any Weigher of the said Kings Beams, or other Officer now appointed, or to be appointed by the Court of Lord Major and Aldermen of this City, to attend the said Beams, shall at any time hereafter directly or indirectly, take or receive of any person, or persons, whatsoever, any Fée, Guift, or Reward for weigh<g ref="char:EOLhyphen"/>ing of the Goods and Merchandizes appointed to be weighed o<g ref="char:EOLhyphen"/>therwise than by the said Declaration of Common-Council is di<g ref="char:EOLhyphen"/>rected, or if such Weigher or other Officer appointed, or to be appointed as aforesaid, shall not from henceforth on every <hi>Saturday</hi> Afternoon, give a fair and just Account to the Chamber<g ref="char:EOLhyphen"/>lain of this City for the time being, of the Monies by him or them Received for the Rates and Duties as aforesaid, and of whom re<g ref="char:EOLhyphen"/>ceived, and pay the same into the Chamber of <hi>London,</hi> for the use of the said Major and Commonalty and Citizens of this City,
+<pb n="9" facs="tcp:172253:6"/>That then every such Offender, being convicted of such Offence, either by his own Confession, or by the Oath of one or more credi<g ref="char:EOLhyphen"/>ble witnesses to be taken before the Court of Lord Major and Alder<g ref="char:EOLhyphen"/>men of this City, shall <hi>ipso facto</hi> be discharged and removed out of his said Place or Office.</p>
+            <p>And it is further Enacted by the Authority aforesaid, That the Chamberlain of this City for the time being, shall from henceforth pay unto the Lord Major of the City of <hi>London</hi> for the time being, the Sum of <hi>xl l. per Annum,</hi> out of the Profits of the said Beams, in consideration of his particular care and trouble to be given in the management of this Affair, and of the Advantages formerly ac<g ref="char:EOLhyphen"/>cruing to the Lord Major of this City; And that all other Profits to be made and raised out of the Duties of the said Beams, all ne<g ref="char:EOLhyphen"/>cessary Charges being first deducted, shall wholly be to the use of the Major and Commonalty and Citizens of this City, to be paid and accounted for accordingly to the Chamberlain of the said City for the time being, and to no other use or purpose whatsoever.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Samuel Roycroft,</hi> Printed to the Honourable City of <hi>London.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
